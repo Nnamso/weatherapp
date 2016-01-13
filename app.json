@@ -1,0 +1,6 @@
+{
+  "name": "weatherapp",
+  "description": "weather app",
+  "repository": "https://github.com/ccoenraets/weatherapp",
+  "addons": ["heroku-postgresql:hobby-dev"]
+}
